@@ -1,5 +1,6 @@
 #  Adaptive Dual-KI Red Team Scanner Documentation
-##### BATMOBILE EDITION - IDEA
+##### BATMOBILE EDITION - Sniff with AI Tor and more!
+
 
 ## 1. Overview
 

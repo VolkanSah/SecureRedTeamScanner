@@ -1,5 +1,5 @@
 #  Adaptive Dual-KI Red Team Scanner Documentation
-##### BATMOBILE EDITION - Sniff with AI Tor and more!
+##### BATMOBILE EDITION - Sniff with AI Tor and more! Only for DevOps! 
 
 
 ## 1. Overview

@@ -1,5 +1,5 @@
 # Adaptive Dual-KI Red Team Scanner Documentation
-##### BATMOBILE EDITION - AI-Powered Tor Security Testing
+##### [BATMOBILE](https://github.com/VolkanSah/x201-BatConsole) EDITION - AI-Powered Tor Security Testing
 **⚠️ For Ethical Security Testing & DevOps Only | Legal Use Required**
 
 ---

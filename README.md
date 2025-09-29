@@ -355,4 +355,6 @@ If this tool helps your security research:
 
 ---
 
-**Disclaimer:** This tool is provided "as-is" without warranties. Users are solely responsible for compliance with applicable laws and regulations.
+**Disclaimer:** This tool is provided "as-is" without warranties. Users are solely responsible for compliance with applicable laws and regulations. GPL3
+#### Copyright
+[Volkan Kücükbudak](https://github.com/volkansah)

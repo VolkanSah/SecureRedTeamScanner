@@ -1,4 +1,5 @@
-# 🦇 BATMOBILE EDITION - Adaptive Dual-KI Red Team Scanner Documentation
+#  Adaptive Dual-KI Red Team Scanner Documentation
+##### BATMOBILE EDITION - IDEA
 
 ## 1. Overview
 

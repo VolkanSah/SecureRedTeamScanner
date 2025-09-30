@@ -3,6 +3,8 @@
 ##### [BATMOBILE](https://github.com/VolkanSah/x201-BatConsole) EDITION - AI-Powered Tor Security Testing
 **⚠️ For Ethical Security Testing & DevOps Only | Legal Use Required**
 
+### NOTE! API MONEY finished, cant test anymore,later...
+
 ---
 
 ## 1. Overview

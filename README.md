@@ -5,6 +5,8 @@
 
 ### NOTE! API MONEY finished, cant test anymore,later...
 
+[Roadmap ideas](roadmap.md)
+
 ---
 
 ## 1. Overview
